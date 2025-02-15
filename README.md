@@ -1,16 +1,17 @@
 ## 🔍Project Overview
 
-### 📌Project Title
+### 📌 Title
 - Restaurant Recommendations Based on Current Location with Naver Maps
 
-### 📌Project Objective
+### 📌 Objective
 - The goal of this project is to collect nearby restaurant information from Naver Maps based on the user's current location. The program will then select the top 3 restaurants for each criterion (rating and number of reviews) and provide this information to the user. The implementation will follow these steps:
 
 
-### 📌Project Duration
+### 📌 Duration
 - 2024.05 ~ 2024.06
 
 ### 📌Code Overview
+
 
 #### 1. Determine User Location
 - Use the Requests library to obtain the user's IP address and track their location.
