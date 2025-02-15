@@ -1,5 +1,6 @@
 # Restaurant Recommendations Based on Current Location with Naver Maps
 
+Conducted: (2024.05 ~ 2024.06)
 
 The goal of this project is to collect nearby restaurant information from Naver Maps based on the user's current location. The program will then select the top 3 restaurants for each criterion (rating and number of reviews) and provide this information to the user. The implementation will follow these steps:
 
